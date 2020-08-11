@@ -43,4 +43,5 @@ Boosting Techniques performs so i select all three boosting models and stack the
 * Random Forest cross validation accuracy score is : 78.83%
 * SVM cross validation accuracy score is : 78.63%
 ##### After hyperparameter tuning and stacking the models:
-Accuracy = 81.26%
+Accuracy = 81.26% <br>
+Currently we have 7043 rows in data if increase data we can increase model accuracy.
