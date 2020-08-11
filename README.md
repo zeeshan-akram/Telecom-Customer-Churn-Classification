@@ -44,4 +44,4 @@ Boosting Techniques performs so i select all three boosting models and stack the
 * SVM cross validation accuracy score is : 78.63%
 ##### After hyperparameter tuning and stacking the models:
 Accuracy = 81.26% <br>
-Currently we have 7043 rows in data if increase data we can increase model accuracy.
+Currently we have 7043 rows in data if we increase data we can increase model accuracy.
